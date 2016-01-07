@@ -1,9 +1,9 @@
 {
     "name": "getgrav/grav-theme-pricklypear",
     "type": "grav-theme",
-    "description": "A simple, single page responsive theme ported by CaribThemes and based on Fractal by HTML5up.",
+    "description": "A simple responsive, single page theme ported by CaribThemes and based on Fractal by HTML5up.",
     "keywords": ["theme","grav","responsive","design","onepage"],
-    "homepage": "https://github.com/CaribThemes/grav-theme-pricklypear",
+    "homepage": "http://caribthemes.io",
     "license": "MIT",
 },
     "authors": [
