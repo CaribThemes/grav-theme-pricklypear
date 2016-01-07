@@ -4,10 +4,10 @@ description: "A FREE simple single page by CaribThemes inspired by Fractal by HT
 icon: paw
 author:
   name: MATsxm for CaribThemes
-  email: mat@idimweb.com
-  url: http://idimweb.com
+  email: contact@caribthemes.io
+  url: http://caribthemes.io
 homepage: https://github.com/CaribThemes/grav-theme-pricklypear
-demo:
+demo: http://demo.caribthemes.io/pricklypear
 keywords: theme, responsive, html5, css3, design, onepage
 bugs: https://github.com/CaribThemes/grav-theme-pricklypear/issues
 license: MIT
