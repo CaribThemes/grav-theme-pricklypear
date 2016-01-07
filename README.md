@@ -8,6 +8,7 @@
 
 ##### Table of Contents:
 
+* [Demo](#demo)
 * [Features](#features)
 * [Views](#supported-page-templates)
 * [Installation](#installation)
@@ -15,6 +16,10 @@
 * [Setup](#setup)
 * [Support & Bugs](#support--bugs)
 * [Credits](#credits)
+
+## Demo
+
+See the **PricklyPear** Template live [here](http://demo.caribthemes.io/pricklypear)
 
 ## Features
 * OnePage template
@@ -39,6 +44,8 @@ The simplest way to install this theme is via the [Grav Package Manager (GPM)](h
     bin/gpm install pricklypear
 
 This will install the Saba Theme into your `/user/themes` directory within Grav. Its files can be found under `/your/site/grav/user/themes/pricklypear`
+
+>> **NOTE:** for the Skeleton version, please see: [Skeleton](https://github.com/CaribThemes/grav-skeleton-pricklypear) 
 
 #### Manual Installation
 
