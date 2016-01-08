@@ -28,7 +28,7 @@ See the **PricklyPear** Template live [here](http://demo.caribthemes.io/pricklyp
 * HTML5 and CSS3
 * Fontawesome icon support 4.5.0 (CDN) [See the list here.](http://fortawesome.github.io/Font-Awesome/icons)
 * Back to top
-* Contact Form - __ToDo__ (v1.0.1)
+* Contact Form - __ToDo__ (v1.1.0)
 
 ## Supported Page Templates
 * <code>home.html.twig</code> view (NOTE: if you use a Grav starter kit, please change the <code>default.md</code> file in ~user/pages/01.home to <code>modular.md</code>)
@@ -43,7 +43,7 @@ The simplest way to install this theme is via the [Grav Package Manager (GPM)](h
 
     bin/gpm install pricklypear
 
-This will install the Saba Theme into your `/user/themes` directory within Grav. Its files can be found under `/your/site/grav/user/themes/pricklypear`
+This will install the PricklyPear Theme into your `/user/themes` directory within Grav. Its files can be found under `/your/site/grav/user/themes/pricklypear`
 
 >> **NOTE:** for the Skeleton version, please see: [Skeleton](https://github.com/CaribThemes/grav-skeleton-pricklypear) 
 
