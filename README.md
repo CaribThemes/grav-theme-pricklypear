@@ -4,7 +4,7 @@
 
 > **Prickly Pear** is a **FREE** simple single page responsive theme ported by [**CaribThemes**](https://github.com/CaribThemes) for the [**Grav**](http://getgrav.org) CMS and based on Fractal by HTML5up.
 
-![Saba](assets/readme_1.png)
+![PricklyPear](assets/readme_1.png)
 
 ##### Table of Contents:
 
@@ -58,7 +58,7 @@ You should now have all the theme files under
 >> NOTE: This theme is a modular component for Grav which requires the [Grav](http://github.com/getgrav/grav), [Error](https://github.com/getgrav/grav-theme-error) and [Problems](https://github.com/getgrav/grav-plugin-problems) plugins.
 
 ## Updating
-As development for the Saba Theme continues, new versions may become available that add additional features and functionality, improve compatibility with newer Grav releases, and generally provide a better user experience. Updating Grav is easy and can be done through Grav's GPM system, as well as manually.
+As development for the PricklyPear Theme continues, new versions may become available that add additional features and functionality, improve compatibility with newer Grav releases, and generally provide a better user experience. Updating Grav is easy and can be done through Grav's GPM system, as well as manually.
 
 #### GPM Update (Preferred)
 
@@ -66,7 +66,7 @@ The simplest way to update this theme is via the [Grav Package Manager (GPM)](ht
 
     bin/gpm update pricklypear
 
-This command will check your Grav install to see if your Saba Theme is due for an update. If a newer release is found, you will be asked whether or not you wish to update. To continue, type `y` and hit enter. The theme will automatically update and clear Grav's cache.
+This command will check your Grav install to see if your PricklyPear Theme is due for an update. If a newer release is found, you will be asked whether or not you wish to update. To continue, type `y` and hit enter. The theme will automatically update and clear Grav's cache.
 
 #### Manual Update
 
@@ -80,7 +80,7 @@ Manually updating Agency is pretty simple. Here is what you will need to do to g
 > Note: Any changes you have made to any of the files listed under this directory will also be removed and replaced by the new set. Any files located elsewhere (for example a YAML settings file placed in `user/config/themes`) will remain intact.
 
 ## Setup
-If you want to set Saba as the default theme, you can do so by following these steps:
+If you want to set PricklyPear as the default theme, you can do so by following these steps:
 
 * Navigate to `/your/site/grav/user/config`.
 * Open the **system.yaml** file.
@@ -98,7 +98,7 @@ For contact form configuration instructions please refer to [official documentat
 * If you find bugs, please report them on [here](https://github.com/CaribThemes/grav-theme-pricklypear/issues)
 
 ## Credits
-* [Grav](http://getgrav.org) by [RocketTheme](http://www.rockettheme.com). Licensed under [MIT](https://github.com/CaribThemes/grav-theme-saba/master/LICENSE.md)
+* [Grav](http://getgrav.org) by [RocketTheme](http://www.rockettheme.com). Licensed under [MIT](https://github.com/CaribThemes/grav-theme-pricklypear/master/LICENSE.md)
 * Photos by MATsxm for [IDIM<em>web</em>.com](http://idimweb.com). Licensed under __WTFPL__ (see LICENSE)
 * Inspired by the template Fractal by [HTML5 up](http://html5up.net/)
 * [Back To Top](https://github.com/CodyHouse/back-to-top) feature by [CodyHouse](https://github.com/CodyHouse)
