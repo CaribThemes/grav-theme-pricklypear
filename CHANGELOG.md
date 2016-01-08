@@ -1,3 +1,11 @@
+# v1.0.2
+## 01/08/2016
+
+1. [](#new)
+    * Minor css for RWD menu.
+    * Changing date format in CHANGELOG
+    * Minor cleanup
+
 # v1.0.1
 ## 01/06/2016
 
