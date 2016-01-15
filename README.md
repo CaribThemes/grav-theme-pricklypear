@@ -15,6 +15,7 @@
 * [Installation](#installation)
 * [Updating](#updating)
 * [Setup](#setup)
+* [Demo Content](Demo-Content)
 * [Support & Bugs](#support--bugs)
 * [Credits](#credits)
 
@@ -93,6 +94,8 @@ Once this is done, you should be able to see the new theme on the frontend. Keep
 
 <!--#### Contact Form Configuration
 For contact form configuration instructions please refer to [official documentation](http://learn.getgrav.org/advanced/contact-form). Make sure you installed Email and Form plugin though.-->
+## Demo Content
+You can find inside theme directory the folder `_demo` where you can find the example contents for your site. If the theme is one-page layout copy all files inside `_demo/pages` into your home page folder. For the other folders follow the same name.
 
 ## Support & Bugs
 * If you need a support please go to the dedicated [![Join the chat at https://gitter.im/CaribThemes/grav-theme-pricklypear](https://badges.gitter.im/CaribThemes/grav-theme-pricklypear.svg)](https://gitter.im/CaribThemes/grav-theme-pricklypear?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
