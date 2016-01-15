@@ -15,7 +15,7 @@
 * [Installation](#installation)
 * [Updating](#updating)
 * [Setup](#setup)
-* [Demo Content](Demo-Content)
+* [Demo Content](#demo-content)
 * [Support & Bugs](#support--bugs)
 * [Credits](#credits)
 
