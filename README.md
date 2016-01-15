@@ -1,7 +1,9 @@
 # Prickly Pear Theme for the CMS Grav
 
+[![Demo](https://img.shields.io/badge/Demo-PricklyPear-blue.svg?style=flat-square)](http://caribthemes.io/demo/pricklypear)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/CaribThemes/grav-theme-pricklypear/blob/master/LICENSE.md)
 [![GitHub version](https://badge.fury.io/gh/CaribThemes%2Fgrav-theme-pricklypear.svg)](https://badge.fury.io/gh/CaribThemes%2Fgrav-theme-pricklypear)
-![License](https://img.shields.io/badge/License-MIT-blue.svg) [![Join the chat at https://gitter.im/CaribThemes/grav-theme-pricklypear](https://badges.gitter.im/CaribThemes/grav-theme-pricklypear.svg)](https://gitter.im/CaribThemes/grav-theme-pricklypear?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/CaribThemes/grav-theme-pricklypear](https://badges.gitter.im/CaribThemes/grav-theme-pricklypear.svg)](https://gitter.im/CaribThemes/grav-theme-pricklypear?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > **Prickly Pear** is a **FREE** simple single page responsive theme ported by [**CaribThemes**](http://caribthemes.io) for the [**Grav**](http://getgrav.org) CMS and based on Fractal by HTML5up.
 
