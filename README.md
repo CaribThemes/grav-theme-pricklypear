@@ -19,6 +19,7 @@
 * [Updating](#updating)
 * [Setup](#setup)
 * [Demo Content](#demo-content)
+* [Showcase](#showcase)
 * [Support & Bugs](#support--bugs)
 * [Credits](#credits)
 
@@ -99,6 +100,12 @@ Once this is done, you should be able to see the new theme on the frontend. Keep
 For contact form configuration instructions please refer to [official documentation](http://learn.getgrav.org/advanced/contact-form). Make sure you installed Email and Form plugin though.-->
 ## Demo Content
 You can find inside theme directory the folder `_demo` where you can find the example contents for your site. If the theme is one-page layout copy all files inside `_demo/pages` into your home page folder. For the other folders follow the same name.
+
+>> **NOTE:** if you want the Anchors Menu works like on the demo site, you will have to copy lines 29 to 36 (based on demo) from the file: https://github.com/CaribThemes/grav-skeleton-pricklypear/blob/master/config/site.yaml#L29. This is also the case to set the Social networks icones (lines 38 to 47).
+
+## Showcase
+You want to share your site build with PricklyPear?
+Feel free to add your site here...
 
 ## Support & Bugs
 * If you need a support please go to the dedicated [![Join the chat at https://gitter.im/CaribThemes/grav-theme-pricklypear](https://badges.gitter.im/CaribThemes/grav-theme-pricklypear.svg)](https://gitter.im/CaribThemes/grav-theme-pricklypear?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
