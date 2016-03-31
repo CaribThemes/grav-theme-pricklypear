@@ -19,6 +19,28 @@ en:
     ERROR_DESC: Oops! - It seems you are lost.<br/>It's time to take of your shoes and going back to the beach...
     ERROR_BTN: back to the beach!
 
+de:
+# mod_ header
+    HEADER_TITLE: 'Prickly Pear'
+    HEADER_DESC: 'Nur ein Responsive Onepage Template<br /> erstellt von <a href="http://caribthemes.io" target="_blank">Carib Themes</a>'
+# mod_ title
+    TITLE_DESC: '<h2>Die Prickly Pear Inseln (übersetzt = Kaktusfeige) sind ein paar kleine unbewohnte Inseln <br> der Leeward-Inseln der Karibik. </h2> <p> Die Inseln wurden als Naturschutzgebiet eingestuft und sind eine von sechs Meeresschutzgebieten von Anguilla. </ P> '
+# mod_ download
+    DOWNLOAD_TITLE: '<h2>Prickly Pear von Carib Themes</h2>'
+    DOWNLOAD_DESC: '<p>Prickly Pear ist ein FREIES responsive, single page Theme für das CMS-System Grav, welches von Carib Themes<br />erstellt wurde, inspiriert von Fractal Template von HTML5 UP.</p>'
+# part_ footer
+    FOOTER_COPYRIGHT: 'portiert mit <i class="fa fa-heart"></i> für <a href="http://getgrav.org" target="_blank" title="GetGrav">Grav</a> von <a href="http://caribthemes.io" target="_blank" title="Themes for Grav CMS">Carib Themes</a> and inspired by Fractal by <a href="http://html5up.net" target="_blank" title="HTML5">HTML5 UP</a>.'
+# button
+    BTN_DOWNLOAD: '<a href="https://github.com/CaribThemes/grav-theme-pricklypear" target="_blank" title="Download PricklyPear auf GitHub" class="button special icon fa-download">Download</a>'
+    BTN_DOWNLOAD_STANDALONE: '<a href="https://github.com/CaribThemes/grav-theme-pricklypear" target="_blank" title="Download PricklyPear auf GitHub" class="button special icon fa-download">Standalone</a>'
+    BTN_DOWNLOAD_SKELETON: '<a href="https://github.com/CaribThemes/grav-skeleton-pricklypear" target="_blank" title="Download PricklyPear auf GitHub" class="button special icon fa-download">Skeleton</a>'
+    BTN_CARIB: '<a href="http://caribthemes.io" target="_blank" title="CaribThemes.io" class="button">Carib Themes</a>'
+# Error
+    ERROR_TYPE: 'Fehler'
+    ERROR_DESC: 'Oops! - Du scheinst verloren.<br/>Es wird Zeit die Schuhe auszuziehen und zurück zum Strand zu gehen...'
+    ERROR_BTN: 'zurück zum Strand!'
+
+
 fr:
 # mod_ header
     HEADER_TITLE: Prickly Pear
