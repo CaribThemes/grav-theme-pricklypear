@@ -16,7 +16,7 @@ en:
     BTN_CARIB: '<a href="http://caribthemes.io" target="_blank" title="CaribThemes.io" class="button">Carib Themes</a>'
 # Error
     ERROR_TYPE: Error
-    ERROR_DESC: Oops! - It seems you are lost.<br/>It's time to take of your shoes and going back to the beach...
+    ERROR_DESC: Oops! - It seems you are lost.<br/>It's time to take off your shoes and go back to the beach...
     ERROR_BTN: back to the beach!
 
 de:
